@@ -26,18 +26,18 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 # Screenshots of the Dashboard:
 
-![power_hitters_and_openers]()
+![power_hitters_and_openers](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/power_hitters_and_openers.jpg)
 
-![hover_effect]()
+![hover_effect](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/hover_effect.jpg)
 
-![individual_stats]()
+![individual_stats](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/individual_stats.jpg)
 
-![anchors]()
+![anchors](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/anchors.jpg)
 
-![finishers]()
+![finishers](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/finishers.jpg)
 
-![all_rounders]()
+![all_rounders](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/all_rounders.jpg)
 
-![fast_bowlers]()
+![fast_bowlers](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/fast_bowlers.jpg)
 
-![pick_final_11]()
+![pick_final_11](https://github.com/yashwantswami/Cricket-Data-Analytics/blob/main/Screenshots/pick_final_11.jpg)
